@@ -1,3 +1,3 @@
 Simple Unit converter with React
 
-![Screenshot](ss.png)
+![Screenshot](ss.jpg)
